@@ -1,12 +1,13 @@
 package com.example.johnjernigan.helloworld;
 
-import android.support.v7.app.ActionBarActivity;
+//Testing testing testing more testing
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
